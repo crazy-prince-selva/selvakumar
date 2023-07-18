@@ -1,0 +1,33 @@
+.flex_container{
+    display: flex;
+    background-color: aqua;
+    margin: auto;
+    border-radius: 15px;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+
+
+}
+.flex_box{
+    background-color: blue;
+    margin: 20px;
+    border-radius: 15px;
+    height: 400px;
+    width: 400px;
+    font-size: 20px;
+    line-height: 400px;
+
+}
+.flex_box1{
+    background-color: orangered;
+    height: 100px;
+    width: 95%;
+    margin: 20px;
+    border-radius: 15px;
+    font-size: 20px;
+    align-content: center;
+    line-height: 100px;
+   
+}
